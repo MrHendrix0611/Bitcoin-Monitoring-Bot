@@ -171,3 +171,4 @@ O mercado de criptomoedas possui alto risco. Utilize por sua conta e risco.
 # 👨‍💻 Autor
 
 Desenvolvido por Guilherme Silva 🚀
+Github: https://github.com/MrHendrix0611
