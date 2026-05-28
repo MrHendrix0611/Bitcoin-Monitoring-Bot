@@ -70,7 +70,7 @@ RSI abaixo de 30 normalmente indica condição de sobrevenda.
 Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/MrHendrix0611/seu-repositorio.git
 ```
 
 Entre na pasta:
